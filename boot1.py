@@ -23,7 +23,7 @@ from telegram.ext import (
     filters,
 )
 
-TOKEN = "8797865004:AAG_BWHOew0wMNhWbHsN0_c2k_1Jq4iEHNY"
+TOKEN = "8650840339:AAFVJcgDA7eE50u1CI07YtIOg-RJJi5jSOs"
 
 OWNER_ID = 6493670464
 
@@ -93,7 +93,7 @@ def build_buttons(url):
 
 SHARE_URL = (
     "https://t.me/share/url"
-    "?url=https://t.me/zaid_cf_bot"
+    "?url=https://t.me/zaid_M_bot"
     "&text=🎬 Download TikTok and YouTube videos instantly.%0A%0A"
     "🎵 Video or Audio — your choice!%0A"
     "⚡ Fast, free, and easy to use."
